@@ -45,7 +45,7 @@ Men Node.js asosida backend dasturlashga ixtisoslashgan ishtiyoqli dasturchiman.
 - **[s21_matrix](https://github.com/LazizShakarov/s21_matrix)**: School 21 loyihasi – C tilida matritsa operatsiyalari uchun kutubxona.
 
 ## 📬 Aloqa
-[<img src="https://img.shields.io/badge/Telegram-LazizShakarov-blue">](https://t.me/lazizshakarov)
+[<img src="https://img.shields.io/badge/Telegram-LazizShakarov-blue">](https://t.me/laziz_06_06)
 [<img src="https://img.shields.io/badge/LinkedIn-LazizShakarov-blue">](https://www.linkedin.com/in/lazizshakarov)
 [<img src="https://img.shields.io/badge/Email-laziz.shakarov%40example.com-red">](mailto:laziz.shakarov@example.com)
 
