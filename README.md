@@ -47,6 +47,6 @@ Men Node.js asosida backend dasturlashga ixtisoslashgan ishtiyoqli dasturchiman.
 ## 📬 Aloqa
 [<img src="https://img.shields.io/badge/Telegram-LazizShakarov-blue">](https://t.me/laziz_06_06)
 [<img src="https://img.shields.io/badge/LinkedIn-LazizShakarov-blue">]([https://www.linkedin.com/in/lazizshakarov](https://www.linkedin.com/in/laziz-shakarov-193953356/))
-[<img src="https://img.shields.io/badge/Email-laziz.shakarov%40example.com-red">](mailto:lazizshakarov243@gmail.com)
+[<img src="https://img.shields.io/badge/Email-laziz.shakarov%40example.com-red">](lazizshakarov243@gmail.com)
 
 Loyihalarimni ko‘rib chiqing va hamkorlik qilish uchun bog‘laning! 🚀
