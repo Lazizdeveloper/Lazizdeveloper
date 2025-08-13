@@ -6,7 +6,7 @@ Men Node.js asosida backend dasturlashga ixtisoslashgan ishtiyoqli dasturchiman.
 - **School 21** (2025 – hozirgi vaqt)
   - Peer-to-peer metodologiyasi asosida dasturlash bo‘yicha intensiv ta’lim.
   - Asosiy yo‘nalishlar: C, Node.js, algoritmlar, ma’lumotlar bazasi va backend dasturlash.
-  - Loyihalar: s21_decimal, s21_matrix va boshqa amaliy loyihalar.
+  - Loyihalar: s21_decimal (moliyaviy hisob-kitoblar uchun aniq o‘nlik hisoblash), s21_matrix (matritsa operatsiyalari).
 - **Najot Ta'lim** (2025 – hozirgi vaqt)
   - Backend dasturlash (Node.js, Express) va zamonaviy veb-ilovalarni ishlab chiqish.
   - Kurslar: REST API ishlab chiqish, ma’lumotlar bazasi boshqaruvi va DevOps asoslari.
@@ -31,7 +31,7 @@ Men Node.js asosida backend dasturlashga ixtisoslashgan ishtiyoqli dasturchiman.
   - Node.js va Express yordamida yuqori samarali API’lar ishlab chiqish
   - Ma'lumotlar bazasi dizayni va optimallashtirish
   - Xavfsiz autentifikatsiya tizimlari (JWT, OAuth)
-  - School 21 loyihalarida: s21_decimal (moliyaviy hisob-kitoblar uchun aniq o‘nlik hisoblash) va s21_matrix (matritsa operatsiyalari)
+  - School 21 loyihalarida: s21_decimal (C tilida aniq o‘nlik hisoblash), s21_matrix (matritsa operatsiyalari)
   - Najot Ta'lim loyihalarida: REST API va real vaqtda ilovalar
 
 ## 📊 GitHub statistikasi
@@ -45,8 +45,7 @@ Men Node.js asosida backend dasturlashga ixtisoslashgan ishtiyoqli dasturchiman.
 - **[s21_matrix](https://github.com/LazizShakarov/s21_matrix)**: School 21 loyihasi – C tilida matritsa operatsiyalari uchun kutubxona.
 
 ## 📬 Aloqa
-[<img src="https://img.shields.io/badge/Telegram-LazizShakarov-blue">](https://t.me/laziz_06_06)
-[<img src="https://img.shields.io/badge/LinkedIn-LazizShakarov-blue">]([https://www.linkedin.com/in/lazizshakarov](https://www.linkedin.com/in/laziz-shakarov-193953356/))
-[<img src="https://img.shields.io/badge/Email-laziz.shakarov%40example.com-red">](lazizshakarov243@gmail.com)
+[<img src="https://img.shields.io/badge/Telegram-@laziz_06_06-blue">](https://t.me/laziz_06_06)
+[<img src="https://img.shields.io/badge/Email-shakarovlaziz243%40gmail.com-red">](mailto:shakarovlaziz243@gmail.com)
 
 Loyihalarimni ko‘rib chiqing va hamkorlik qilish uchun bog‘laning! 🚀
