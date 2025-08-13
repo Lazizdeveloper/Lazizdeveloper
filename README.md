@@ -55,8 +55,8 @@
 
 ## 📊 GitHub statistikasi
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LazizShakarov&show_icons=true&theme=dracula&hide_border=true" alt="Laziz's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazizShakarov&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LazizShakarov&show_icons=true&theme=dracula&hide_border=true" alt="Laziz's GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazizShakarov&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LazizShakarov&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
