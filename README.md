@@ -66,4 +66,3 @@ s21_matrixC tilida matritsa operatsiyalari uchun optimallashtirilgan kutubxona.
 
 
 
-  🌌 Mening kodlarimni ko‘ring va birgalikda ajoyib loyihalar yaratalik! 🚀
