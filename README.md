@@ -1,68 +1,63 @@
-🚀 Assalomu alaykum, men Laziz Shakarovman!
+<!-- ================= HEADER BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:0066ff&height=180&section=header&text=Saidkarim%20Niyazov&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-🔥 Men Node.js asosida tezkor va xavfsiz backend yechimlarni yaratuvchi dasturchiman. School 21 va Najot Ta'limda bilim olish bilan birga, ochiq manbali loyihalarga jonbozlik bilan hissa qo‘shaman!
+<!-- ================= BIO SECTION ================= -->
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/hacker.png" width="96" />
+</p>
 
-🎓 Ta’lim yo‘li
+<h2 align="center">🚀 About Me</h2>
+<p align="center">
+  I'm <b>18 years old</b>, currently studying at <b>School 21 (International Digital Engineering School)</b>.  
+  Passionate about <b>technology, cybersecurity, and lifelong learning</b>.  
+  I share my knowledge through <b>mentoring</b> and <b>volunteering</b>, helping others grow in tech.  
+  Always exploring new fields — from coding to building impactful projects.
+</p>
 
-School 21 (2025 – hozir)📚 C, Node.js, algoritmlar va ma'lumotlar tuzilmalari bo‘yicha chuqur o‘qish🛠 Loyihalar:  
+<!-- ================= VALUES ================= -->
+<h2 align="center">🌟 Values</h2>
+<p align="center">
+  <b>Leadership</b> — Inspiring teams and taking responsibility  
+  <b>Courage</b> — Stepping into new challenges with confidence  
+  <b>Passion</b> — Putting heart into every project  
+  <b>Wisdom</b> — Acting with patience, foresight, and understanding  
+</p>
 
-s21_decimal – Moliyaviy hisoblar uchun C kutubxonasi  
-s21_matrix – Matritsa operatsiyalari kutubxonasi
+<!-- ================= SKILLS ================= -->
+<h2 align="center">🛠 Skills & Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-%2300f0ff?style=for-the-badge&logo=Hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%2300f0ff?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%2300f0ff?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300f0ff?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-%2300f0ff?style=for-the-badge&logo=Wireshark&logoColor=white" />
+</p>
 
+<!-- ================= PROJECTS ================= -->
+<h2 align="center">💻 Projects</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithSaidkarim&repo=project1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithSaidkarim&repo=project2&theme=tokyonight" />
+</p>
 
-Najot Ta'lim (2025 – hozir)📚 Node.js, Express va DevOps bo‘yicha zamonaviy veb-dasturlash🛠 Loyihalar: REST API va real vaqtda ilovalar
+<!-- ================= GITHUB STATS ================= -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithSaidkarim&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithSaidkarim&theme=tokyonight&hide_border=true" />
+</p>
 
+<!-- ================= CONTACT ================= -->
+<h2 align="center">📬 Let's Connect</h2>
+<p align="center">
+  <a href="https://github.com/codewithSaidkarim"><img src="https://img.shields.io/badge/GitHub-%2300f0ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://t.me/Saidkarimniyazov"><img src="https://img.shields.io/badge/Telegram-%2300f0ff?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saidkarim-niyazov-23202a378"><img src="https://img.shields.io/badge/LinkedIn-%2300f0ff?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-
-🛠 Texnologiyalar palitrasi
-
-  
-  
-  
-  
-  
-  
-
-
-Qobiliyatlar:  
-
-🌐 REST API va GraphQL ishlab chiqish  
-🗄 Ma'lumotlar bazasi: MongoDB, PostgreSQL, MySQL  
-⚙️ DevOps: Docker, GitHub Actions, Nginx  
-🧪 Testlash: Jest, Mocha  
-🧠 Algoritmlar va ma'lumotlar tuzilmalari
-
-
-💼 Tajriba maydoni
-
-Backend dasturchi (1+ yil)  
-Node.js va Express bilan yuqori unumli API’lar yaratish  
-Ma'lumotlar bazasini loyihalash va optimallashtirish  
-Xavfsiz autentifikatsiya tizimlari (JWT, OAuth)
-
-
-
-
-📊 GitHub Statistikasi
-
-  
-  
-  
-
-
-
-🌟 Yulduzli loyihalar
-
-REST APINode.js va MongoDB bilan foydalanuvchi autentifikatsiyali REST API.  
-Real vaqt chatWebSocket va Express bilan interaktiv chat ilovasi.  
-s21_decimalMoliyaviy hisoblar uchun C tilida aniq o‘nlik operatsiyalar.  
-s21_matrixC tilida matritsa operatsiyalari uchun optimallashtirilgan kutubxona.
-
-
-📬 Bog‘lanish
-
-  
-  
-
-
-
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:0066ff&height=120&section=footer" />
+</p>
