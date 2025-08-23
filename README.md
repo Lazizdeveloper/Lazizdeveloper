@@ -1,61 +1,44 @@
+👋 Salom, men Laziz Shakarovman!
+
+🚀 Node.js backend dasturchisi, School 21 va Najot Ta'lim talabasi. Ochiq manbali loyihalarga hissa qo‘shaman!
+
+🎓 Ta’lim
+
+School 21 (2025 – hozir)C, Node.js, algoritmlarLoyihalar:  
+
+s21_decimal  
+s21_matrix
 
 
-  
-
-
-
-
-  
-
-
-🚀 About Me
-
-  I'm 18 years old, currently studying at School 21 (International Digital Engineering School).  
-  Passionate about technology, cybersecurity, and lifelong learning.  
-  I share my knowledge through mentoring and volunteering, helping others grow in tech.  
-  Always exploring new fields — from coding to building impactful projects.
+Najot Ta'lim (2025 – hozir)Node.js, REST API, DevOps
 
 
 
-🌟 Values
+🛠 Texnologiyalar
 
-  Leadership — Inspiring teams and taking responsibility  
-  Courage — Stepping into new challenges with confidence  
-  Passion — Putting heart into every project  
-  Wisdom — Acting with patience, foresight, and understanding  
+Ko‘nikmalar: REST API, GraphQL, MongoDB, PostgreSQL, Docker, Jest, CI/CD  
 
+💼 Tajriba
 
-
-🛠 Skills & Tools
-
-  
-  
-  
-  
-  
+Backend dasturchi (1+ yil)  
+Node.js va Express bilan API ishlab chiqish  
+Ma'lumotlar bazasi dizayni (MongoDB, PostgreSQL)  
+Xavfsiz autentifikatsiya (JWT, OAuth)
 
 
 
-💻 Projects
-
-  
-  
- Ascending
 
 📊 GitHub Stats
 
-  
-  
+
+🚀 Loyihalar
+
+API loyihasi: Node.js va MongoDB bilan REST API  
+Chat ilovasi: WebSocket bilan real vaqt ilovasi  
+s21_decimal: C tilida moliyaviy hisoblar  
+s21_matrix: C tilida matritsa kutubxonasi
 
 
+📬 Aloqa
 
-📬 Let's Connect
-
-  
-  
-  
-
-
-
-
-  
+💡 Loyihalarimni ko‘ring va hamkorlik uchun bog‘laning! 🚀
