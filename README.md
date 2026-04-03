@@ -37,7 +37,12 @@ Ko‘nikmalar: REST API, GraphQL, MongoDB, PostgreSQL, Docker, Jest, CI/CD
   
   <!-- Qo'shimcha vositalar -->
   <img alt="SQL" src="https://skillicons.dev/icons?i=mysql,postgresql" height="50" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nest,exprees,node" />
 </p>
+
+
+
+ 
 
 ---
 
