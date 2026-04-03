@@ -38,6 +38,12 @@ Ko‘nikmalar: REST API, GraphQL, MongoDB, PostgreSQL, Docker, Jest, CI/CD
   <!-- Qo'shimcha vositalar -->
   <img alt="SQL" src="https://skillicons.dev/icons?i=postgresql,mongodb" height="50" />
    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nest,exprees,Node" />
+
+   <a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=blocage&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
+
+<a href=#><img src="https://raw.githubusercontent.com/blocage/blocage/main/contributions.svg"></a>
 </p>
 
 
