@@ -75,4 +75,8 @@ s21_matrix: C tilida matritsa kutubxonasi
 
 📬 Aloqa
 
-💡 Loyihalarimni ko‘ring va hamkorlik uchun bog‘laning! 🚀
+<p>- 📑 &nbsp; Contact me: 
+<a href="https://instagram.com/laziz_shakarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://t.me/drift_enthusiast" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" height="30" width="40" /></a>
+<a href="mailto:shakarovlaziz243@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" height="30" width="40" /></a>
+</p>
