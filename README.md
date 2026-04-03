@@ -36,7 +36,7 @@ Ko‘nikmalar: REST API, GraphQL, MongoDB, PostgreSQL, Docker, Jest, CI/CD
   <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" height="50" />
   
   <!-- Qo'shimcha vositalar -->
-  <img alt="SQL" src="https://skillicons.dev/icons?i=postgresql" height="50" />
+  <img alt="SQL" src="https://skillicons.dev/icons?i=postgresql,mongodb" height="50" />
    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nest,exprees,node" />
 </p>
 
