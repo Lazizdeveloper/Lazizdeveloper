@@ -20,7 +20,6 @@ Ko‘nikmalar: REST API, GraphQL, MongoDB, PostgreSQL, Docker, Jest, CI/CD
 <p align="center">
   <!-- Dasturlash tillari -->
   <img alt="C" src="https://skillicons.dev/icons?i=c" height="50" />
-  <img alt="Python" src="https://skillicons.dev/icons?i=python" height="50" />
   <img alt="Bash" src="https://skillicons.dev/icons?i=bash" height="50" />
   
   <!-- Operatsion tizimlar -->
@@ -35,12 +34,9 @@ Ko‘nikmalar: REST API, GraphQL, MongoDB, PostgreSQL, Docker, Jest, CI/CD
   <!-- Kod tahlil va boshqalar -->
   <img alt="Docker" src="https://skillicons.dev/icons?i=docker" height="50" />
   <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" height="50" />
-  <img alt="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" height="50" />
   
   <!-- Qo'shimcha vositalar -->
   <img alt="SQL" src="https://skillicons.dev/icons?i=mysql,postgresql" height="50" />
-  <img alt="Terraform" src="https://skillicons.dev/icons?i=terraform" height="50" />
-  <img alt="Ansible" src="https://skillicons.dev/icons?i=ansible" height="50" />
 </p>
 
 ---
