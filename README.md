@@ -17,7 +17,7 @@
 
 * **Backend:** Node.js, NestJS, Express, TypeScript, REST API, WebSocket
 * **Ma'lumotlar bazasi:** PostgreSQL, MongoDB, Redis
-* **DevOps & Tizim:** Docker, Linux, Git, GitHub Actions, CI/CD
+* **DevOps & Tizim:** Docker, Linux, Git, GitHub Actions, CI/CD, GitOps
 * **Algoritmlar & Past daraja:** C tili, Data Structures & Algorithms
 
 ---
@@ -37,19 +37,24 @@
 
 | Loyiha | Tavsif | Texnologiyalar |
 | :--- | :--- | :--- |
-| 🏛️ **[Mahalla_yettiligi_backend](https://github.com/Lazizdeveloper/Mahalla_yettiligi_backend)** | Mahalla yettiligi tizimi uchun to'liq backend API servisi | Node.js, NestJS, PostgreSQL |
+| 🏛️ **[Mahalla_yettiligi_backend](https://github.com/Lazizdeveloper/Mahalla_yettiligi_backend)** | Mahalla yettiligi tizimi uchun to'liq backend API servisi | Node.js, NestJS, PostgreSQL, Redis, Docker |
+| 🌐 **[uptime-monitor](https://github.com/Lazizdeveloper/uptime-monitor)** | GitOps asosidagi serverless API monitoring va avtomatik healthcheck | GitHub Actions, Node.js, GitOps |
 | 🌿 **[TozaHudud-Ai](https://github.com/Lazizdeveloper/TozaHudud-Ai)** | Toza hudud ekologik nazorati va monitoring servisi | Python, AI integratsiya |
-| 🏨 **[Safaarsave](https://github.com/Lazizdeveloper/Safaarsave)** | Bron qilish va boshqaruv tizimi | TypeScript, Next.js, API |
+| 🏨 **[Safaarsave](https://github.com/Lazizdeveloper/Safaarsave)** | Bron qilish va mehmonxona boshqaruv tizimi | TypeScript, Next.js, API |
 | 🤖 **[pidifibot](https://github.com/Lazizdeveloper/pidifibot)** | PDF hujjatlar bilan tezkor ishlash uchun Telegram bot | Python, Telegram Bot API |
 | ⚡ **[VFSShell](https://github.com/Lazizdeveloper/VFSShell)** | Linux muhiti uchun Virtual File System Shell realizatsiyasi | C, Linux, CLI |
 
 ---
 
-### 📊 GitHub Statistikasi
+### 📊 GitHub & Kodlash Statistikasi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lazizdeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Laziz's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazizdeveloper&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lazizdeveloper&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
 </p>
 
 ---
