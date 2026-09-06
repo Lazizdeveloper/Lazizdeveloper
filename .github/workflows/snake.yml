@@ -2,7 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -23,9 +23,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Lazizdeveloper
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#39d353
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
