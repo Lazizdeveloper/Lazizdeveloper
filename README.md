@@ -46,16 +46,16 @@
 
 ---
 
-### 📊 GitHub & Kodlash Statistikasi
+### 📊 GitHub & Faollik Statistikasi
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lazizdeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Laziz's GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Lazizdeveloper&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lazizdeveloper&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Lazizdeveloper&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazizdeveloper&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lazizdeveloper&theme=tokyonight&hide_border=true" alt="WakaTime Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lazizdeveloper&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lazizdeveloper&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
