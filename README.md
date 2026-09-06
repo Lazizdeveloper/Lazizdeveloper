@@ -1,78 +1,71 @@
-👋 Salom, men Laziz Shakarovman!
+# <div align="center">👋 Salom, men Laziz Shakarovman!</div>
 
-🚀 Node.js backend dasturchisi, School 21 va Najot Ta'lim talabasi. Ochiq manbali loyihalarga hissa qo‘shaman!
-
-🎓 Ta’lim
-
-School 21 (2025 – hozir)C, Node.js, algoritmlarLoyihalar:  
-
-s21_decimal  
-s21_matrix
-
-
-Najot Ta'lim (2025 – hozir)Node.js, REST API, DevOps
-
-
-
-🛠 Texnologiyalar
-
-Ko‘nikmalar: REST API, GraphQL, MongoDB, PostgreSQL, Docker, Jest, CI/CD  
-<p align="center">
-  <!-- Dasturlash tillari -->
-  <img alt="C" src="https://skillicons.dev/icons?i=c" height="50" />
-  <img alt="Bash" src="https://skillicons.dev/icons?i=bash" height="50" />
-  
-  <!-- Operatsion tizimlar -->
-  <img alt="Linux" src="https://skillicons.dev/icons?i=linux" height="50" />
-  <img alt="Windows" src="https://skillicons.dev/icons?i=windows" height="50" />
-  
-  <!-- Versiya nazorati -->
-  <img alt="Git" src="https://skillicons.dev/icons?i=git" height="50" />
-  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="50" />
-  <img alt="GitLab" src="https://skillicons.dev/icons?i=gitlab" height="50" />
-  
-  <!-- Kod tahlil va boshqalar -->
-  <img alt="Docker" src="https://skillicons.dev/icons?i=docker" height="50" />
-  <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" height="50" />
-  
-  <!-- Qo'shimcha vositalar -->
-  <img alt="SQL" src="https://skillicons.dev/icons?i=postgresql,mongodb" height="50" />
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nest,exprees,Node" />
-
-<a href=#><img src="https://raw.githubusercontent.com/blocage/blocage/main/contributions.svg"></a>
-</p>
-
-
-
- 
+<div align="center">
+  <h3>🚀 Backend Node.js & NestJS Developer</h3>
+  <p>School 21 va Najot Ta'lim bitiruvchisi/talabasi. Kengaytiriluvchan (scalable) backend tizimlar va toza kod tarafdoriman.</p>
+</div>
 
 ---
 
-💼 Tajriba
+### 🛠 Texnologiyalar va Vositalar
 
-Backend dasturchi (1+ yil)  
-Node.js va Express bilan API ishlab chiqish  
-Ma'lumotlar bazasi dizayni (MongoDB, PostgreSQL)  
-Xavfsiz autentifikatsiya (JWT, OAuth)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,js,postgres,mongodb,redis,docker,linux,c,bash,git,github,vscode,postman" alt="My Skills" />
+  </a>
+</p>
 
+* **Backend:** Node.js, NestJS, Express, TypeScript, REST API, WebSocket
+* **Ma'lumotlar bazasi:** PostgreSQL, MongoDB, Redis
+* **DevOps & Tizim:** Docker, Linux, Git, GitHub Actions, CI/CD
+* **Algoritmlar & Past daraja:** C tili, Data Structures & Algorithms
 
+---
 
+### 🎓 Ta'lim & Tajriba
 
-📊 GitHub Stats
+- 🏫 **School 21** (2025 – hozir) — C, tizimli dasturlash, Unix, algoritmlar va ma'lumotlar tuzilmalari.
+- 🎓 **Najot Ta'lim** (2025 – hozir) — Node.js, NestJS, Microservices, RESTful arxitektura va DevOps.
+- 💼 **Backend Dasturchi (1+ yil tajriba)**:
+  - Yuqori yuklamali RESTful API servislari va ma'lumotlar bazalarini loyihalash;
+  - JWT va Role-based access control (RBAC) xavfsizlik mexanizmlari;
+  - Docker konteynerlarida mikroservislarni sozlash va orkestratsiya qilish.
 
+---
 
-🚀 Loyihalar
+### 🚀 Asosiy Loyihalar
 
-API loyihasi: Node.js va MongoDB bilan REST API  
-Chat ilovasi: WebSocket bilan real vaqt ilovasi  
-s21_decimal: C tilida moliyaviy hisoblar  
-s21_matrix: C tilida matritsa kutubxonasi
+| Loyiha | Tavsif | Texnologiyalar |
+| :--- | :--- | :--- |
+| 🏛️ **[Mahalla_yettiligi_backend](https://github.com/Lazizdeveloper/Mahalla_yettiligi_backend)** | Mahalla yettiligi tizimi uchun to'liq backend API servisi | Node.js, NestJS, PostgreSQL |
+| 🌿 **[TozaHudud-Ai](https://github.com/Lazizdeveloper/TozaHudud-Ai)** | Toza hudud ekologik nazorati va monitoring servisi | Python, AI integratsiya |
+| 🏨 **[Safaarsave](https://github.com/Lazizdeveloper/Safaarsave)** | Bron qilish va boshqaruv tizimi | TypeScript, Next.js, API |
+| 🤖 **[pidifibot](https://github.com/Lazizdeveloper/pidifibot)** | PDF hujjatlar bilan tezkor ishlash uchun Telegram bot | Python, Telegram Bot API |
+| ⚡ **[VFSShell](https://github.com/Lazizdeveloper/VFSShell)** | Linux muhiti uchun Virtual File System Shell realizatsiyasi | C, Linux, CLI |
 
+---
 
-📬 Aloqa
+### 📊 GitHub Statistikasi
 
-<p>- 📑 &nbsp; Contact me: 
-<a href="https://instagram.com/laziz_shakarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://t.me/Laziz_Shakarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" height="30" width="40" /></a>
-<a href="mailto:shakarovlaziz243@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lazizdeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Laziz's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazizdeveloper&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### 📬 Bog'lanish (Contacts)
+
+<p align="left">
+  <a href="https://t.me/Laziz_Shakarov" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="mailto:shakarovlaziz243@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/laziz_shakarov" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
