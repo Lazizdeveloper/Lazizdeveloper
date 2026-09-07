@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Achievement-Pull%20Shark%20(Silver)-0077b6?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
   </a>
   <a href="https://github.com/Lazizdeveloper?tab=achievements">
-    <img src="https://img.shields.io/badge/Achievement-Galaxy%20Brain%20(Silver)-7209b7?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain" />
+    <img src="https://img.shields.io/badge/Achievement-Galaxy%20Brain%20(Gold%20x4)-7209b7?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain" />
   </a>
   <a href="https://github.com/Lazizdeveloper?tab=achievements">
     <img src="https://img.shields.io/badge/Achievement-YOLO-f72585?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
