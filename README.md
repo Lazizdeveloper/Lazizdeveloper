@@ -1,12 +1,5 @@
-# <div align="center">
-  <a href="https://github.com/Lazizdeveloper?tab=achievements">
-    <img src="https://img.shields.io/badge/Achievement-Public%20Sponsor-ff70a6?style=for-the-badge&logo=github&logoColor=white" alt="Public Sponsor" />
-  </a>👋 Salom, men Laziz Shakarovman!</div>
-
 <div align="center">
-  <a href="https://github.com/Lazizdeveloper?tab=achievements">
-    <img src="https://img.shields.io/badge/Achievement-Public%20Sponsor-ff70a6?style=for-the-badge&logo=github&logoColor=white" alt="Public Sponsor" />
-  </a>
+  <h1>👋 Salom, men Laziz Shakarovman!</h1>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Lazizdeveloper&label=Profilga%20tashriflar&color=0e75b6&style=flat-square" alt="Visitor Count" />
@@ -15,7 +8,6 @@
 
   <h3>🚀 Backend Node.js & NestJS Developer</h3>
   <p>School 21 va Najot Ta'lim bitiruvchisi/talabasi. Kengaytiriluvchan (scalable) backend tizimlar va toza kod tarafdoriman.</p>
-
 </div>
 
 ---
