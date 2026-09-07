@@ -1,6 +1,12 @@
-# <div align="center">👋 Salom, men Laziz Shakarovman!</div>
+# <div align="center">
+  <a href="https://github.com/Lazizdeveloper?tab=achievements">
+    <img src="https://img.shields.io/badge/Achievement-Public%20Sponsor-ff70a6?style=for-the-badge&logo=github&logoColor=white" alt="Public Sponsor" />
+  </a>👋 Salom, men Laziz Shakarovman!</div>
 
 <div align="center">
+  <a href="https://github.com/Lazizdeveloper?tab=achievements">
+    <img src="https://img.shields.io/badge/Achievement-Public%20Sponsor-ff70a6?style=for-the-badge&logo=github&logoColor=white" alt="Public Sponsor" />
+  </a>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Lazizdeveloper&label=Profilga%20tashriflar&color=0e75b6&style=flat-square" alt="Visitor Count" />
@@ -17,6 +23,9 @@
 ### 🏆 Rasmiy GitHub Yutuqlari (Achievements Showcase)
 
 <div align="center">
+  <a href="https://github.com/Lazizdeveloper?tab=achievements">
+    <img src="https://img.shields.io/badge/Achievement-Public%20Sponsor-ff70a6?style=for-the-badge&logo=github&logoColor=white" alt="Public Sponsor" />
+  </a>
   <a href="https://github.com/Lazizdeveloper?tab=achievements">
     <img src="https://img.shields.io/badge/Achievement-Pull%20Shark%20(Silver)-0077b6?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
   </a>
