@@ -68,6 +68,7 @@
 | Loyiha | Tavsif | Texnologiyalar |
 | :--- | :--- | :--- |
 | 🏛️ **[Mahalla_yettiligi_backend](https://github.com/Lazizdeveloper/Mahalla_yettiligi_backend)** | Mahalla yettiligi tizimi uchun to'liq backend API servisi | Node.js, NestJS, PostgreSQL, Redis, Docker |
+| 🤝 **[Bobo-Doda](https://github.com/Lazizdeveloper/Bobo-Doda)** | Markaziy Osiyo uchun ikki tomonlama xizmatlar marketplace va bosqichli escrow platformasi | TypeScript, Next.js, Node.js, Express, Escrow |
 | 🌐 **[uptime-monitor](https://github.com/Lazizdeveloper/uptime-monitor)** | GitOps asosidagi serverless API monitoring va avtomatik healthcheck | GitHub Actions, Node.js, GitOps |
 | 🌿 **[TozaHudud-Ai](https://github.com/Lazizdeveloper/TozaHudud-Ai)** | Toza hudud ekologik nazorati va monitoring servisi | Python, AI integratsiya |
 | 🏨 **[Safaarsave](https://github.com/Lazizdeveloper/Safaarsave)** | Bron qilish va mehmonxona boshqaruv tizimi | TypeScript, Next.js, API |
