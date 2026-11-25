@@ -161,7 +161,7 @@ def build_header() -> None:
         f'<text x="64" y="19" font-family="{MONO}" font-size="10" fill="{MUTED}">laziz.config.ts</text>'
         f'<line x1="0" y1="28" x2="{tw_box}" y2="28" stroke="{BORDER}" stroke-width="1"/>'
         f'<text x="14" y="49" font-family="{MONO}" font-size="11" fill="{INDIGO}">const <tspan fill="{TEXT}">laziz</tspan> = &#123;</text>'
-        f'<text x="26" y="67" font-family="{MONO}" font-size="11" fill="{MUTED}">role: <tspan fill="{EMERALD}">"Frontend / Full-Stack"</tspan>,</text>'
+        f'<text x="26" y="67" font-family="{MONO}" font-size="11" fill="{MUTED}">company: <tspan fill="{EMERALD}">"Aurent POS"</tspan>,</text>'
         f'<text x="26" y="85" font-family="{MONO}" font-size="11" fill="{MUTED}">stack: <tspan fill="{SKY}">["React", "Next", "TS"]</tspan>,</text>'
         f'<text x="26" y="103" font-family="{MONO}" font-size="11" fill="{MUTED}">focus: <tspan fill="{AMBER}">"Clean UI &amp; Scale"</tspan></text>'
         f'<text x="14" y="118" font-family="{MONO}" font-size="11" fill="{INDIGO}">&#125;;</text>'
@@ -228,11 +228,11 @@ def build_hero() -> None:
             574,
             EMERALD,
             "glow3",
-            "// 03 · CS FOUNDATIONS",
-            "School 21 &amp; Najot Ta'lim",
-            "C, Unix systems, algorithms &amp;",
-            "automated GitOps workflows.",
-            [("C / Unix", 64), ("Algorithms", 76), ("GitOps", 58)],
+            "// 03 · WORK &amp; CS",
+            "Aurent &amp; School 21",
+            "Multi-vertical POS SPAs, Electron",
+            "apps, C/Unix systems &amp; GitOps.",
+            [("Aurent POS", 74), ("Electron", 66), ("C / Unix", 64)],
         ),
     ]
 
@@ -460,9 +460,9 @@ def build_labels_and_chips() -> None:
 
     chips = [
         ("chip-location.svg", "Samarkand, Uzbekistan", SKY),
+        ("chip-work.svg", "Frontend Dev @ Aurent", EMERALD),
         ("chip-education.svg", "School 21 · Najot Ta'lim", INDIGO),
         ("chip-role.svg", "Frontend & Full-Stack", AMBER),
-        ("chip-status.svg", "Open to Opportunities", EMERALD),
     ]
     for fname, text, color in chips:
         h = 34

@@ -8,9 +8,9 @@
 <br/>
 
 <img src="assets/chip-location.svg" height="34" alt="Samarkand, Uzbekistan" />
+<img src="assets/chip-work.svg" height="34" alt="Frontend Dev at Aurent" />
 <img src="assets/chip-education.svg" height="34" alt="School 21 and Najot Ta'lim" />
 <img src="assets/chip-role.svg" height="34" alt="Frontend and Full-Stack" />
-<img src="assets/chip-status.svg" height="34" alt="Open to Opportunities" />
 
 <br/><br/>
 
@@ -34,9 +34,10 @@ I build responsive, accessible web applications and scalable full-stack systems 
 
 <br/>
 
-- 🏫 **School 21** *(2025 – present)* — C, Unix systems, algorithms &amp; data structures
-- 🎓 **Najot Ta'lim** *(2025 – present)* — Full-Stack JavaScript/TypeScript, NestJS, Microservices &amp; DevOps
-- 💼 **Production Focus** — Marketplaces with escrow, booking platforms, high-load REST APIs &amp; GitOps automation
+- 💼 **Frontend Developer @ Aurent** *(present / hozirgacha)* — Building multi-vertical **Aurent POS** web SPAs (Retail, Restaurant, Pharmacy), Electron desktop cashier apps, and shared monorepo UI/API packages *(React, Vite, Tailwind CSS, Zustand, TanStack Query)*.
+- 🏫 **School 21** *(2025 – present / 2025 – hozirgacha)* — C, Unix systems, algorithms &amp; data structures
+- 🎓 **Najot Ta'lim** *(2025 – 2026)* — Full-Stack JavaScript/TypeScript, NestJS, Microservices &amp; DevOps
+- 🚀 **Side &amp; Open-Source Projects** — Marketplaces with escrow, booking platforms, high-load REST APIs &amp; GitOps automation
 
 ⚡ Clean Code (DRY / SRP) &nbsp;·&nbsp; 🧩 Component Architecture &nbsp;·&nbsp; 🛡️ Type Safety &nbsp;·&nbsp; 🚀 Scalable Systems
 
