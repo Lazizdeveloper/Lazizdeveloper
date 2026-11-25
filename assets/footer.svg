@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="108" viewBox="0 0 860 108" role="img" aria-hidden="true">
+<defs>
+  <linearGradient id="fgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#10b981" stop-opacity="0.7"/>
+    <stop offset="50%" stop-color="#0ea5e9" stop-opacity="0.8"/>
+    <stop offset="100%" stop-color="#6366f1" stop-opacity="0.8"/>
+  </linearGradient>
+</defs>
+<path d="M 0,36 C 210,76 420,10 630,54 C 750,80 810,36 860,46 L 860,108 L 0,108 Z" fill="url(#fgrad)" fill-opacity="0.30"/>
+<path d="M 0,56 C 230,94 440,28 650,72 C 770,96 820,56 860,64 L 860,108 L 0,108 Z" fill="#0ea5e9" fill-opacity="0.18"/>
+</svg>
